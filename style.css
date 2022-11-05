@@ -1,0 +1,9 @@
+#timer_counter{
+    font-size: 30px;
+    float: left;
+}
+#score{
+    font-size: 30px;
+    float: right;
+    margin-right: 75px;
+}
